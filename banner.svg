@@ -27,7 +27,7 @@
 
     <!-- Typing Clip Path -->
     <clipPath id="typing-clip">
-      <rect id="clip-rect" x="0" y="0" width="0" height="80" />
+      <rect id="clip-rect" x="0" y="-50" width="0" height="70" />
     </clipPath>
   </defs>
 
@@ -116,7 +116,7 @@
     
     <!-- Blinking Cursor -->
     <g class="cursor-line">
-      <rect x="0" y="-38" width="3" height="42" class="cursor cursor-blink-el" />
+      <rect x="0" y="-42" width="3" height="48" class="cursor cursor-blink-el" />
     </g>
   </g>
 
