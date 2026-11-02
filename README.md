@@ -1,157 +1,80 @@
-��<div align="center">
+<div align="center">
   <img src="banner.svg" alt="Utkarsh Aryan Banner" width="100%" />
   <br><br>
-  
-  <p align="center">
-    <strong>B.E. Computer Science & Engineering</strong> @ The National Institute of Engineering, Mysuru (2024–2028) &bull; <strong>GPA: 9.32/10</strong>
-    <br>
-    <em>Building production-ready full-stack applications &bull; Spring Boot &bull; Microservices &bull; AI/ML Integration</em>
-  </p>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/utkarsh-aryan-b2b661318/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/Utkarsharyan"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://leetcode.com/u/utkarsh08aryan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-    <a href="mailto:utkarsh08aryan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+  **Software Development Intern &bull; B.E. CSE @ NIE Mysuru (GPA: 9.32/10)**  
+  *Building production-ready full-stack applications with Spring Boot, Java, and scalable backend architecture.*
+
+  <br>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-aryan-b2b661318/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Utkarsharyan)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/utkarsh08aryan/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:utkarsh08aryan@gmail.com)
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👤 Profile Summary
 
-- 🎓 **Undergraduate in Computer Science & Engineering** at **The National Institute of Engineering (NIE), Mysuru** (2024–2028) with a **9.32 GPA**.
-- 💼 **Industry Experience**: Interned as a **Software Development Intern** at **OurContentCafe** (engineered full-stack Spring Boot + MySQL apps for multiple business clientsand **Computer Systems and Services (M)** (shipped production web platform with AI chatbot).
-- 🏆 **Hackathon Winner**: College-Level Winner at **Smart India Hackathon (SIH)** for *BharactresQ* (AI-powered disaster risk prediction systemand **Top 5 / 120+ teams** at a National FinTech Hackathon for *CrediGraph*.
-- 🎯 **Algorithmic Problem Solving**: **200+ DSA problems** solved across LeetCode, CodeChef, and GeeksforGeeks with LeetCode SQL 50 and 50 Days badges.
-- 🛠️ **Core Focus**: High-performance backend architectures, microservices, secure RESTful APIs, relational database design, and integrating AI/ML workflows into web systems.
-
----
-
-## 🛠️ Technical Arsenal
-
-<div align="center">
-
-### 🌐 Core Skills & Icons
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,c,html,css,mysql,postgres,mongodb,docker,git,github,postman,vercel&perline=15&theme=dark" />
-</p>
-
-### Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend, Frameworks & Architecture
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-8A2BE2?style=for-the-badge)
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge)
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
-
-### Databases & ORM
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Tools, Cloud & DevOps
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-### Core CS & Specializations
-`Data Structures & Algorithms` &bull; `OOP` &bull; `DBMS` &bull; `Operating Systems` &bull; `SDLC & Agile` &bull; `AI/ML Integration` &bull; `NLP`
-
-</div>
+- 🎓 **Education**: B.E. in Computer Science & Engineering at **The National Institute of Engineering, Mysore** (2024–2028) &bull; **GPA: 9.32 / 10.00**
+- 💼 **Experience**: Software Development Intern at **OurContentCafe** (Spring Boot full-stack apps) and **Computer Systems and Services (M)** (production web platform + AI FAQ bot).
+- 🏆 **Hackathons**: **College-Level Winner** at Smart India Hackathon (SIH) for *BharactresQ* &bull; **Top 5 / 120+ Teams** at National FinTech Hackathon for *CrediGraph*.
+- 🧩 **DSA**: **200+ problems solved** across LeetCode, CodeChef, and GeeksforGeeks (LeetCode SQL 50 & 50 Days badges).
 
 ---
 
-## 💼 Work Experience
+### 💻 Skills
 
-### 🚀 **OurContentCafe** &mdash; *Software Development Intern*
-`April 2026 – August 2026` &bull; **Stack:** Java, Spring Boot, MySQL, Agile, REST APIs
-- Engineered and deployed production-ready full-stack applications for multiple business clients, translating complex business requirements into scalable, reliable technical solutions.
-- Managed end-to-end production deployments and collaborated directly with clients, consistently delivering milestones on schedule using Agile development practices.
-
-### 🌐 **Computer Systems and Services (M)** &mdash; *Software Development Intern*
-`January 2026 – March 2026` &bull; **Stack:** HTML5, CSS3, JavaScript, Google Apps Script, Vercel
-- Built and deployed a production business website with an AI-powered FAQ chatbot to automate customer query handling and streamline lead intake.
-- Improved on-page SEO and application load performance via semantic HTML, WebP assets, and metadata optimization, significantly strengthening the company's digital presence and local search visibility.
-
----
-
-## 🚀 Featured Projects
-
-### 1. 📈 **CrediGraph** &mdash; *Financial Risk & Credit Default Prediction*
-**[📁 GitHub](https://github.com/Utkarsharyan)** &bull; **Stack:** Python, Scikit-learn, Machine Learning, REST APIs
-- Built **Logistic Regression & Random Forest models** for credit default probability of default (PDprediction on financial datasets.
-- Integrated an **AI-powered chatbot** providing real-time risk insights and portfolio health explanations.
-- **Top 5 / 120+ Teams** at a National FinTech Hackathon &mdash; directly applicable to financial risk analytics and data-driven credit decisions.
-
----
-
-### 2. ⚡ **FocusOS** &mdash; *AI-Powered Productivity Platform*
-**[🔗 Live Demo](https://focus--os.vercel.app/)** | **[📁 GitHub](https://github.com/Utkarsharyan)** &bull; **Stack:** Spring Boot, Java, MySQL, REST APIs, JWT, Vercel, Render
-- Designed and engineered a microservices-style backend with **50+ backend components** handling task management, focus sessions, and productivity analytics dashboards.
-- Implemented robust **JWT Authentication with Spring Security**, refresh tokens, role checks, and transaction-safe database operations.
-- Integrated an **AI-assisted productivity assistant** for personalized task planning and execution guidance.
-
----
-
-### 3. 📊 **Government Budget YoY Transparency Tracker**
-**[📁 GitHub](https://github.com/Utkarsharyan)** &bull; **Stack:** Spring Boot, PostgreSQL, JavaScript, Chart.js, NLP
-- Built a full-stack financial transparency dashboard visualizing year-over-year government budget allocations using interactive Chart.js visualizations.
-- Developed an **NLP engine** to ingest and parse large-scale real-time event datasets, extracting actionable insights and policy spending shifts.
-- Implemented clean RESTful endpoints and optimized SQL queries across complex relational schema.
-
----
-
-### 4. 🌍 **Vibify** &mdash; *AI Travel Recommendation Engine*
-**[🔗 Live Demo](https://vibify-app.vercel.app/)** | **[📁 GitHub](https://github.com/Utkarsharyan)** &bull; **Stack:** Spring Boot, Java, JavaScript, Groq AI, Vercel
-- Full-stack travel recommendation platform using **hybrid API integrations** (Pixels API + Wikipediapaired with a context-aware AI chatbot.
-- Analyzes traveler mood, budget, and season to produce tailored itineraries with real-time location media.
-
----
-
-## 🏆 Honors & Key Achievements
-
-- 🥇 **Smart India Hackathon (SIH) &mdash; College Level Winner**: Built **BharactresQ**, an AI-powered disaster risk prediction system with real-time ML pipelines, winning institution-wide at NIE Mysore.
-- 🏅 **National FinTech Hackathon &mdash; Top 5 / 120+ Teams**: Recognized for *CrediGraph* financial risk intelligence model.
-- 🧩 **200+ DSA Problems Solved**: Active problem solver across LeetCode, CodeChef, and GeeksforGeeks.
-- 🎖️ **LeetCode Badges**: Earned **LeetCode SQL 50** & **50 Days Badge** demonstrating consistent problem-solving discipline.
-- 📈 **700+ GitHub Contributions**: Active open-source development and consistent project shipping.
-- 🎓 **Academic Excellence**: **9.32 / 10.00 GPA** at The National Institute of Engineering, Mysore &bull; 87% (12th DPS Ranchi&bull; 94.6% (10th DPS Ranchi).
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
+| Category | Technologies |
 | :--- | :--- |
-| 💼 **LinkedIn** | [linkedin.com/in/utkarsh-aryan-b2b661318](https://www.linkedin.com/in/utkarsh-aryan-b2b661318/) |
-| 🐙 **GitHub** | [github.com/Utkarsharyan](https://github.com/Utkarsharyan) |
-| 💻 **LeetCode** | [leetcode.com/u/utkarsh08aryan](https://leetcode.com/u/utkarsh08aryan/|
-| 📧 **Email** | [utkarsh08aryan@gmail.com](mailto:utkarsh08aryan@gmail.com|
-| 📍 **Location** | Mysore, India |
+| **Languages** | Java, Python, JavaScript, SQL, C, HTML5, CSS3 |
+| **Backend & APIs** | Spring Boot, Spring MVC, Spring Data JPA, RESTful Web Services, Microservices, Maven |
+| **Databases** | MySQL, PostgreSQL, MongoDB, JDBC |
+| **Cloud & DevOps** | Git, GitHub, Docker, Postman, Vercel, Render |
+| **Core CS & AI** | Data Structures & Algorithms, OOP, DBMS, Operating Systems, AI/ML Integration, NLP |
 
-<br>
+---
 
-<p>
-  <strong>Open to Software Engineering & Backend Internships / Opportunities.</strong><br>
-  Always eager to build scalable, high-impact systems &mdash; feel free to reach out! 🚀
-</p>
+### 💼 Work Experience
 
-</div>
+#### **OurContentCafe** &mdash; *Software Development Intern*
+`April 2026 – August 2026` &bull; *Java, Spring Boot, MySQL, Agile*
+- Engineered and deployed production-ready full-stack applications for multiple business clients, translating client requirements into scalable technical solutions.
+- Managed end-to-end production deployments and collaborated with cross-functional teams using Agile practices.
+
+#### **Computer Systems and Services (M)** &mdash; *Software Development Intern*
+`January 2026 – March 2026` &bull; *HTML5, CSS3, JavaScript, Google Apps Script, Vercel*
+- Built and deployed a production business website with an AI-powered FAQ chatbot to automate customer queries.
+- Optimized on-page SEO and performance with semantic HTML and asset compression to improve discoverability.
+
+---
+
+### 🚀 Key Projects
+
+- **[CrediGraph](https://github.com/Utkarsharyan)** *(Python, Scikit-learn, ML, REST APIs)*  
+  Financial risk and credit default prediction using Logistic Regression and Random Forest models with an AI risk chatbot. **Top 5 / 120+ teams** at a National FinTech Hackathon.
+
+- **[FocusOS](https://focus--os.vercel.app/)** *(Spring Boot, Java, MySQL, JWT, REST APIs)* &bull; [GitHub](https://github.com/Utkarsharyan)  
+  Microservices-style productivity SaaS with **50+ backend components**, JWT authentication via Spring Security, transaction-safe schema, and an AI productivity assistant.
+
+- **[Government Budget YoY Tracker](https://github.com/Utkarsharyan)** *(Spring Boot, PostgreSQL, Chart.js, NLP)*  
+  Full-stack financial transparency dashboard analyzing budget shifts year-over-year with an NLP engine parsing large-scale datasets.
+
+- **[Vibify](https://vibify-app.vercel.app/)** *(Spring Boot, Java, Groq AI, REST APIs)* &bull; [GitHub](https://github.com/Utkarsharyan)  
+  AI travel recommendation engine using hybrid APIs (Pixels + Wikipedia) to generate personalized itineraries.
+
+---
+
+### 🏆 Key Achievements
+
+- 🥇 **Smart India Hackathon (SIH) College Winner**: Built *BharactresQ*, an AI-powered disaster prediction system with ML pipelines.
+- 🥉 **National FinTech Hackathon**: Top 5 out of 120+ competing teams for *CrediGraph*.
+- 🧩 **200+ DSA Problems Solved**: Active problem solver with LeetCode SQL 50 and 50 Days badges.
+- 📈 **700+ GitHub Contributions**: Consistent daily development across open-source and client projects.
+
+---
+
+<div align="center">
+  <sub>Open to Software Engineering & Backend Internships &bull; utkarsh08aryan@gmail.com &bull; Mysore, India</sub>
+</div>
